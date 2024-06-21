@@ -1,0 +1,20 @@
+{
+  "name": "api_automation_dsb4-1",
+  "version": "1.0.0",
+  "description": "API Automation Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000 tests/apiTests.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "chai-json-schema": "^1.5.1",
+    "supertest": "^7.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.4.0"
+  }
+}
