@@ -4,7 +4,7 @@
   "description": "API Automation Project",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --timeout 10000 tests/apiTests.js"
+    "test": "mocha --timeout 10000 tests/api_Tests.js"
   },
   "keywords": [],
   "author": "Your Name",
